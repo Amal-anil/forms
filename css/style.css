@@ -1,0 +1,26 @@
+   /* div{
+    border: solid;
+     padding-top:20px ;
+    padding-right: 50px;
+    padding-bottom: 60px;
+    padding-left: 30px; 
+    padding: 20px 50px ;             
+    height: 450px;
+    width: 300px;
+    font-size: 24px;
+    overflow:auto;
+    overflow: visible;
+    
+}    */
+form{
+    color: rgb(128, 128, 171);
+}
+div{
+    border: 5px solid;
+    padding:20px ;
+    height: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
